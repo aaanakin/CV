@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>未分類 &#8211; test1</title>
+	<title>未分類 &#8211; CV3</title>
 	<atom:link href="https://aaanakin.github.io/CV/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aaanakin.github.io/CV</link>
 	<description>全新的繁體中文 WordPress 網站</description>
-	<lastBuildDate>Mon, 28 Mar 2022 14:25:40 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Apr 2022 10:40:44 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>網站第一篇文章</title>
-		<link>https://aaanakin.github.io/CV/2022/03/28/hello-world/</link>
-					<comments>https://aaanakin.github.io/CV/2022/03/28/hello-world/#comments</comments>
+		<link>https://aaanakin.github.io/CV/2022/04/16/hello-world/</link>
+					<comments>https://aaanakin.github.io/CV/2022/04/16/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 28 Mar 2022 14:25:40 +0000</pubDate>
+		<pubDate>Sat, 16 Apr 2022 10:40:44 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
 		<guid isPermaLink="false">https://aaanakin.github.io/CV/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aaanakin.github.io/CV/2022/03/28/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aaanakin.github.io/CV/2022/04/16/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
